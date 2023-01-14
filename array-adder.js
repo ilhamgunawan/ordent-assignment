@@ -34,3 +34,5 @@ function arrAdder(arr) {
     return arrayOutput
   }, []).join(" ")
 }
+
+module.exports = { arrAdder, arr1, arr2 }
