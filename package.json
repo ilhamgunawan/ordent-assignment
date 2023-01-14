@@ -1,0 +1,14 @@
+{
+  "name": "array-adder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "array-adder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ilham",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
