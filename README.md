@@ -1,5 +1,5 @@
 ## Getting Started
-Before we proceed, first install the dependecy:
+Before we proceed, first install the dependency:
 ```
 npm install
 ```
